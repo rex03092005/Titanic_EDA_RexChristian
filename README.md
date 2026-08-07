@@ -77,7 +77,7 @@ The dataset contains passenger information such as:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/rex03092005/Titanic-EDA.git
+git clone https://github.com/rex03092005/Titanic-EDA-Analysis.git
 ```
 
 ### Navigate to the Project
